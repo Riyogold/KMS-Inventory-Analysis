@@ -1,4 +1,4 @@
-SELECT TOP (8400) [Order_ID]
+SELECT TOP (1000) [Order_ID]
       ,[Order_Date]
       ,[Order_Priority]
       ,[Order_Quantity]
@@ -80,7 +80,7 @@ WHERE Customer_Segment = 'Small Business'
 GROUP BY Customer_Name
 ORDER BY SMALLBUSINESSWITHHIGHESTSALES DESC;
 
-----8. Which Corporate Customer placed the most number of orders in 2009 – 2012
+----8. Which Corporate Customer placed the most number of orders in 2009 â€“ 2012
 SELECT TOP 1 "CUSTOMER_NAME", COUNT (DISTINCT "ORDER_ID") AS HIGHESTCORPORATEPLACERORDER
 FROM [KMS INVENTORY]
 WHERE Customer_Segment = 'Corporate'
