@@ -75,7 +75,7 @@ The dataset is provided in Excel format, containing records from 2009 to 2012. K
 
 You can view the raw SQL scripts used for exploration and aggregation here:
 
-📄 [View SQL Queries](./KMS_QUERY_SQL.sql)
+📄 [View SQL Queries](./KMS_QUERY.SQL.sql)
 
 ##  Key Insights
 
