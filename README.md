@@ -19,8 +19,7 @@ The primary goal of this project is to analyze KM Store's inventory orders using
 ## Tools Used
 
 - **Microsoft SQL Server** – For querying and data extraction
-- **Microsoft Excel (PivotTables)** – For quick aggregations and calculations
-- **Power BI** – For building interactive dashboards and visual insights
+- **Microsoft Excel (PivotTables)** – For quick aggregations and calculations,building interactive dashboards and visual insights
 
 ---
 
