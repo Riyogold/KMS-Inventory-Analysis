@@ -71,6 +71,11 @@ The dataset is provided in Excel format, containing records from 2009 to 2012. K
 - Mapped customer segmentation and shipping cost insights
 
 ---
+## SQL Queries
+
+You can view the raw SQL scripts used for exploration and aggregation here:
+
+📄 [View SQL Queries](./KMS_QUERY_SQL.sql)
 
 ##  Key Insights
 
